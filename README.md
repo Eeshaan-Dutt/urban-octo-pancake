@@ -29,7 +29,7 @@ A. *In-Dependent Feature(s)*:
 4. Tangential Force (Ft)
 5. Axial Force (Fa) 
 
-B *Dependent Feature(s): 
+B *Dependent Feature(s)*: 
 
 1. Beta
 2. Roughness of Surface (Ra)
