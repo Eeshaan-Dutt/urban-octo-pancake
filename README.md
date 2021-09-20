@@ -10,7 +10,8 @@ The datasets considered are private and confidential, and can't be disclosed.
 
 The feature(s) being used here are:
 **Dataset(A):**
-A. *In-Dependent Feature(s):
+
+A. *In-Dependent Feature(s)*:
 1. Speed
 2. Feed
 3. Depth of Cut/ Drill
@@ -20,23 +21,29 @@ B. *Dependent Features:
 2. Metal removal Rate (MRR)
 
 **Dataset(B):**
-A. *In-Dependent Feature(s): 
+
+A. *In-Dependent Feature(s)*: 
 1. Speed
 2. Feed
 3. Depth
 4. Tangential Force (Ft)
-5. Axial Force (Fa)
+5. Axial Force (Fa) 
+
 B *Dependent Feature(s): 
+
 1. Beta
 2. Roughness of Surface (Ra)
 3. Metal Removal Rate (MRR)
 
-**Dataset(C):
-A. *In-Dependent Feature(s): 
+**Dataset(C)**:
+
+A. *In-Dependent Feature(s)*: 
 1. Speed
 2. Feed
-3. Depth
-B. * Dependent Feature(s): 
+3. Depth 
+
+B. *Dependent Feature(s)*: 
+
 1. Tool Life
 2. Tool Wear
 3. Temperature
